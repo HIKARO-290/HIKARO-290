@@ -1,7 +1,7 @@
 # **Hi👋.I'm Hikaro Carvalho.<h1>**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIKARO-290&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIKARO-290&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<h1>
-
+<a href="https://stackoverflow.com/"><img src="RELATIVE_PATH_TO_IMAGE></img></a>
 #####
 
  - Language Skills 
