@@ -4,15 +4,15 @@
 
 
 
-# - Language Skills 
-# - [X] HTML
-# - [X] CSS
-# - [X] JAVASCRIPT
-# - [X] PHP
-# - [X] MYSQL
-# - [X] C++
-# - [X] KOTLIN
-# - [ ] PYTHON
+ - Language Skills 
+ - [X]# HTML
+ - [X] CSS
+ - [X] JAVASCRIPT
+ - [X] PHP
+ - [X] MYSQL
+ - [X] C++
+ - [X] KOTLIN
+ - [ ] PYTHON
  
 ### Here are my social links <h3>
 https://github.com/HIKARO-290/ - automatic!
