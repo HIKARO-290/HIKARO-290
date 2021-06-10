@@ -1,14 +1,14 @@
 ### Hi there 👋<h1>
   
 - Language Skills 
-  -[X] HTML
-  -[X] CSS
-  -[X] JAVASCRIPT
-  -[X] PHP
-  -[X] MYSQL
-  -[X] C++
-  -[X] KOTLIN
-  -[] PYTHON
+  - [X] HTML
+  - [X] CSS
+  - [X] JAVASCRIPT
+  - [X] PHP
+  - [X] MYSQL
+  - [X] C++
+  - [X] KOTLIN
+  - [] PYTHON
  
  ### Here are my social links
 https://github.com/HIKARO-290/ - automatic!
