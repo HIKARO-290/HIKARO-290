@@ -1,5 +1,4 @@
-### Hi👋.
-I'm Hikaro Carvalho, I'm starting now as a programmer. But I finish some courses by Udemy, and now I'm starting one by Blue Edtech to become a Full Stack Junior Programmer.
+### Hi👋.I'm Hikaro Carvalho, I'm starting now as a programmer. But I finish some courses by Udemy, and now I'm starting one by Blue Edtech to become a Full Stack Junior Programmer.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIKARO-290&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIKARO-290&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<h1>
 
