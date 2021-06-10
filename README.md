@@ -8,7 +8,7 @@
   - [X] MYSQL
   - [X] C++
   - [X] KOTLIN
-  - [] PYTHON
+  - [ ] PYTHON
  
  ### Here are my social links
 https://github.com/HIKARO-290/ - automatic!
