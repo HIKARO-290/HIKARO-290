@@ -1,5 +1,18 @@
 ### Hi there 👋<h1>
-
+  
+- Language Skills 
+  -[X] HTML
+  -[X] CSS
+  -[X] JAVASCRIPT
+  -[X] PHP
+  -[X] MYSQL
+  -[X] C++
+  -[X] KOTLIN
+  -[] PYTHON
+ 
+ ### Here are my social links
+https://github.com/HIKARO-290/ - automatic!
+[GitHub](http://github.com)
 <!--
 **HIKARO-290/HIKARO-290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
