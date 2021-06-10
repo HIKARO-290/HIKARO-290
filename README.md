@@ -1,7 +1,9 @@
 # **Hi👋.I'm Hikaro Carvalho.<h1>**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIKARO-290&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIKARO-290&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<h1>
-<a href="https://www.youtube.com/channel/UCcdLjNnfmlUXbeeJbGcFI1g"><img width="10%" src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png"></img></a>
+<a href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"><img width="5%" src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png"></img></a>
+ <a href="https://www.linkedin.com/in/hikaro-fernandes-de-carvalho-737a32209"><img width="5%" src="https://static-exp1.licdn.com/sc/h/8zliikpi39umlw2wr99gu4a0u"></img></a>
+ <a href="https://www.youtube.com/channel/UCcdLjNnfmlUXbeeJbGcFI1g"><img width="5%" src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png"></img></a>
 #####
 
  - Language Skills 
