@@ -1,5 +1,6 @@
 ### Hi there 👋<h1>
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIKARO-290)](https://github.com/anuraghazra/github-readme-stats)
+
 - Language Skills 
   - [X] HTML
   - [X] CSS
@@ -10,7 +11,7 @@
   - [X] KOTLIN
   - [ ] PYTHON
  
- ### Here are my social links
+### Here are my social links <h3>
 https://github.com/HIKARO-290/ - automatic!
 [GitHub](http://github.com)
 <!--
