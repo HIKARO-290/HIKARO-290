@@ -8,7 +8,7 @@
  <a href="https://www.youtube.com/channel/UCcdLjNnfmlUXbeeJbGcFI1g"><img width="5%" src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png"></img></a>
 #####
 
- - Language Skills 
+ - Programing Skills 
  - [X] HTML
  - [X] CSS
  - [X] JAVASCRIPT
