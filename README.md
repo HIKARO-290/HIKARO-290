@@ -1,6 +1,7 @@
 # **Hi👋.I'm Hikaro Carvalho.<h1>**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIKARO-290&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIKARO-290&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<h1>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=username=HIKARO-290&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Here are my social links <h3>
  #####
 <a href="https://github.com/HIKARO-290"><img width="5%" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></img></a>
