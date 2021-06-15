@@ -6,7 +6,7 @@
  #####
 <a href="https://github.com/HIKARO-290"><img width="5%" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></img></a>
  <a href="https://www.linkedin.com/in/hikaro-fernandes-de-carvalho-737a32209"><img width="5%" src="https://static-exp1.licdn.com/sc/h/8zliikpi39umlw2wr99gu4a0u"></img></a>
- <a href="https://www.youtube.com/channel/UCcdLjNnfmlUXbeeJbGcFI1g"><img width="5%" src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png"></img></a>
+ <a href="https://www.youtube.com/channel/UCb3Pa3X0d-IeBuQqgVgnWzg"><img width="5%" src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png"></img></a>
 #####
 
  - Programing Skills 
