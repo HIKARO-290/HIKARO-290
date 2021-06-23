@@ -23,14 +23,14 @@
            <td style="width:70%"> In Contruction</td>
         </tr>
         <tr>
-           <td style="width:70%"> Used Technologies in This Project 
+           <td style="width:70%; text-align:left;"> Used Technologies in This Project 
            
-                <br>- HTML
-                <br>- CSS
-                <br>- PHP
-                <br>- JavaScript
-                <br>- Bootstrap
-                <br>- JQuery
+           - HTML
+           - CSS
+           - PHP
+           - JavaScript
+           - Bootstrap
+           - JQuery
            </td>
  </tr>
         
