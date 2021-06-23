@@ -33,7 +33,7 @@
             <th>### - Sales System</th>
             <th>### - Status</th>         
         <tr>
-           <td roll="5"><img src="https://github.com/HIKARO-290/sales_system/blob/main/images%20for%20example/screens/sale_and_quotation.png?raw=true" width="50%"></td>
+           <td roll="2"><img src="https://github.com/HIKARO-290/sales_system/blob/main/images%20for%20example/screens/sale_and_quotation.png?raw=true" width="50%"></td>
            <td>## In Contruction</td>
         <tr>
            <td>## Used Technologies in This Project</td> 
