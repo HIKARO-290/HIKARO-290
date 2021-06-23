@@ -1,4 +1,4 @@
-|:-----------------------:|
+
 # **Hi👋.I'm Hikaro Carvalho.<h1>**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIKARO-290&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIKARO-290&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -44,6 +44,7 @@ Next technologies to use in this project :
 </table>
 
 ## My New Study Projects :
+<p align="center">
 <table style="border:0;width:100%; color:ffffff; text-align:center;">
         <tr style="background:#444444; width:100%;">
             <th style="width:30%"> - Languages</th>
@@ -65,7 +66,7 @@ Next technologies to use in this project :
         </tr>
         
 </table>
-
+</p>
 <!--
 **HIKARO-290/HIKARO-290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
