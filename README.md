@@ -31,7 +31,7 @@
            - JavaScript
            - Bootstrap
            - JQuery
-           </td>
+           
  </tr>
         
         
