@@ -9,22 +9,6 @@
  <a href="https://www.youtube.com/channel/UCb3Pa3X0d-IeBuQqgVgnWzg"><img width="5%" src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png"></img></a>
 #####
 
-<style>
- table{
-      border:0;
-      background:#444444;
-      width:100%;
- }
- th{
-      background:#444444;
-      color:ffffff;
- }
- td{
-      background:#505050;
-      color:ffffff;
-      
- }
-</style>
 
 
 
