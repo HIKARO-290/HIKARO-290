@@ -44,8 +44,8 @@ Next technologies to use in this project :
 </table>
 
 ## My New Study Projects :
-<p align="center">
-<table style="border:0;width:100%; color:ffffff; text-align:center;">
+
+<table align="center" style="border:0;width:100%; color:ffffff; text-align:center;">
         <tr style="background:#444444; width:100%;">
             <th style="width:30%"> - Languages</th>
             <th style="width:70%"> - Status</th>
@@ -56,6 +56,7 @@ Next technologies to use in this project :
            <td style="width:70%"> In Course</td>
            <td style="width:70%"> 
                   <a href="https://github.com/HIKARO-290/Python-Exercises/tree/main/estudos/exerc%C3%ADcios_para_fixar">
+                    - Link -
                   </a> 
            </td>
         </tr>
@@ -66,7 +67,7 @@ Next technologies to use in this project :
         </tr>
         
 </table>
-</p>
+
 <!--
 **HIKARO-290/HIKARO-290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
