@@ -9,10 +9,48 @@
  <a href="https://www.youtube.com/channel/UCb3Pa3X0d-IeBuQqgVgnWzg"><img width="5%" src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png"></img></a>
 #####
 
- ## My Personal Projects:
- ### - Sales System
- <img src="https://github.com/HIKARO-290/sales_system/blob/main/images%20for%20example/screens/sale_and_quotation.png?raw=true" width="50%">
- 
+<style>
+ table{
+      border:0;
+      background:#444444;
+      width:100%;
+ }
+ th{
+      background:#444444;
+      color:ffffff;
+ }
+ td{
+      background:#505050;
+      color:ffffff;
+      
+ }
+</style>
+
+
+
+ ## My Personal Projects :
+ <table>
+        <tr>
+            <th>### - Sales System</th>
+            <th>### - Status</th> 
+        </tr>        
+        <tr>
+            <td roll="5"><img src="https://github.com/HIKARO-290/sales_system/blob/main/images%20for%20example/screens/sale_and_quotation.png?raw=true" width="50%"></td>
+        </tr>
+        <tr>
+           <td>## Used Technologies in This Project</td> 
+           <td>## Used Technologies in This Project</td> 
+           <td>
+                <br>- HTML
+                <br>- CSS
+                <br>- PHP
+                <br>- JavaScript
+                <br>- Bootstrap
+                <br>- JQuery
+           </td>
+        
+        </tr>
+</table>
 
 <!--
 **HIKARO-290/HIKARO-290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
