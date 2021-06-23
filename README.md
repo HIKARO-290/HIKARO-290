@@ -35,8 +35,8 @@
             <th style="width:70%"> - Status</th>
         </tr>
         <tr style="background:#505050">
-           <td rowspan="2"><img src="https://github.com/HIKARO-290/sales_system/blob/main/images%20for%20example/screens/sale_and_quotation.png?raw=true" width="100%"></td>
-           <td> In Contruction</td>
+           <td rowspan="2" style="width:30%"><img src="https://github.com/HIKARO-290/sales_system/blob/main/images%20for%20example/screens/sale_and_quotation.png?raw=true" width="100%"></td>
+           <td style="width:70%"> In Contruction</td>
         </tr>
         <tr>
            <td> Used Technologies in This Project 
