@@ -14,7 +14,7 @@
 
  ## My Personal Projects :
  <table style="border:0;width:100%; color:ffffff; text-align:center;">
-        <tr style="background:#444444">
+        <tr style="background:#444444; width:100%;">
             <th style="width:30%"> - Sales System</th>
             <th style="width:70%"> - Status</th>
         </tr>
