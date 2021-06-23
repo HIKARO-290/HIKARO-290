@@ -19,7 +19,7 @@
             <th style="width:70%"> - Status</th>
         </tr>
         <tr style="background:#505050">
-           <td rowspan="2" style="width:40%"><img src="https://github.com/HIKARO-290/sales_system/blob/main/images%20for%20example/screens/sale_and_quotation.png?raw=true" width="50%"></td>
+           <td rowspan="2" style="width:40%"><img src="https://github.com/HIKARO-290/sales_system/blob/main/images%20for%20example/screens/sale_and_quotation.png?raw=true" width="auto"></td>
            <td style="width:70%"> In Contruction</td>
         </tr>
         <tr>
