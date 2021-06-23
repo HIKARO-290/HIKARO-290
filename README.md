@@ -9,15 +9,9 @@
  <a href="https://www.youtube.com/channel/UCb3Pa3X0d-IeBuQqgVgnWzg"><img width="5%" src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png"></img></a>
 #####
 
- - Programing Skills 
- - [X] HTML
- - [X] CSS
- - [X] JAVASCRIPT
- - [X] PHP
- - [X] MYSQL
- - [X] C++
- - [X] KOTLIN
- - [ ] PYTHON
+ ## My Personal Projects:
+ ### - Sales System
+ <img src="https://github.com/HIKARO-290/sales_system/blob/main/images%20for%20example/screens/sale_and_quotation.png?raw=true" width="50%">
  
 
 <!--
