@@ -25,12 +25,17 @@
         <tr>
            <td style="width:70%; text-align:left;"> Used Technologies in This Project 
            
-           - HTML
-           - CSS
-           - PHP
-           - JavaScript
-           - Bootstrap
-           - JQuery
+- HTML
+- CSS
+- PHP
+- JavaScript
+- Bootstrap
+- JQuery
+            
+Next technologies to use in this project : 
+            
+- kotlin
+- Json 
            
  </tr>
         
