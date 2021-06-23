@@ -31,11 +31,11 @@
  ## My Personal Projects :
  <table style="border:0;width:100%; color:ffffff;">
         <tr style="background:#444444">
-            <th> - Sales System</th>
-            <th> - Status</th>
+            <th style="width:30%"> - Sales System</th>
+            <th style="width:70%"> - Status</th>
         </tr>
         <tr style="background:#505050">
-           <td rowspan="2"><img src="https://github.com/HIKARO-290/sales_system/blob/main/images%20for%20example/screens/sale_and_quotation.png?raw=true" width="50%"></td>
+           <td rowspan="2"><img src="https://github.com/HIKARO-290/sales_system/blob/main/images%20for%20example/screens/sale_and_quotation.png?raw=true" width="100%"></td>
            <td> In Contruction</td>
         </tr>
         <tr>
