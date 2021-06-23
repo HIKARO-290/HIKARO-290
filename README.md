@@ -20,7 +20,7 @@
             <th style="width:70%"> - Status</th>
         </tr>
         <tr style="background:#505050">
-          <a href="https://github.com/HIKARO-290/sales_system"> <td rowspan="2" style="width:40%"><img src="https://github.com/HIKARO-290/sales_system/blob/main/images%20for%20example/screens/sale_and_quotation.png?raw=true" width="auto"></td></a>
+          <td rowspan="2" style="width:40%"><a href="https://github.com/HIKARO-290/sales_system"> <img src="https://github.com/HIKARO-290/sales_system/blob/main/images%20for%20example/screens/sale_and_quotation.png?raw=true" width="auto"></a></td>
            <td style="width:70%"> In Contruction</td>
         </tr>
         <tr>
