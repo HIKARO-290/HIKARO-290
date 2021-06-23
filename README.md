@@ -29,7 +29,7 @@
 
 
  ## My Personal Projects :
- <table style="border:0;width:100%; color:ffffff;">
+ <table style="border:0;width:100%; color:ffffff; text-align:center;">
         <tr style="background:#444444">
             <th style="width:30%"> - Sales System</th>
             <th style="width:70%"> - Status</th>
@@ -39,7 +39,7 @@
            <td style="width:70%"> In Contruction</td>
         </tr>
         <tr>
-           <td> Used Technologies in This Project 
+           <td style="width:70%"> Used Technologies in This Project 
            
                 <br>- HTML
                 <br>- CSS
