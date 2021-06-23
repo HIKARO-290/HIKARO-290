@@ -29,15 +29,18 @@
 
 
  ## My Personal Projects :
- <table>
-            <th>### - Sales System</th>
-            <th>### - Status</th>         
-        <tr>
+ <table style="border:0;width:100%; color:ffffff;">
+        <tr style="background:#444444">
+            <th> - Sales System</th>
+            <th> - Status</th>
+        </tr>
+        <tr style="background:#505050">
            <td rowspan="2"><img src="https://github.com/HIKARO-290/sales_system/blob/main/images%20for%20example/screens/sale_and_quotation.png?raw=true" width="50%"></td>
-           <td>## In Contruction</td>
+           <td> In Contruction</td>
+        </tr>
         <tr>
-           <td>## Used Technologies in This Project</td> 
-           <td>
+           <td> Used Technologies in This Project 
+           
                 <br>- HTML
                 <br>- CSS
                 <br>- PHP
@@ -45,6 +48,7 @@
                 <br>- Bootstrap
                 <br>- JQuery
            </td>
+ </tr>
         
         
 </table>
