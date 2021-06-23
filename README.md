@@ -42,33 +42,26 @@ Next technologies to use in this project :
         
 </table>
 
-## My Study Projects :
- <table style="border:0;width:100%; color:ffffff; text-align:center;">
+## My New Study Projects :
+<table style="border:0;width:100%; color:ffffff; text-align:center;">
         <tr style="background:#444444; width:100%;">
             <th style="width:30%"> - Languages</th>
             <th style="width:70%"> - Status</th>
+            <th style="width:70%"> - repository </th>
         </tr>
         <tr style="background:#505050">
-           <td rowspan="2" style="width:40%"><img src="https://github.com/HIKARO-290/sales_system/blob/main/images%20for%20example/screens/sale_and_quotation.png?raw=true" width="auto"></td>
-           <td style="width:70%"> In Contruction</td>
+           <td style="width:40%"> Python </td>
+           <td style="width:70%"> In Course</td>
+           <td style="width:70%"> 
+                  <a href="https://github.com/HIKARO-290/Python-Exercises/tree/main/estudos/exerc%C3%ADcios_para_fixar">
+                  </a> 
+           </td>
         </tr>
-        <tr>
-           <td style="width:70%; text-align:left;"> Used Technologies in This Project 
-           
-- HTML
-- CSS
-- PHP
-- JavaScript
-- Bootstrap
-- JQuery
-            
-Next technologies to use in this project : 
-            
-- kotlin
-- Json 
-           
- </tr>
-        
+       <tr style="background:#505050">
+           <td style="width:40%"></td>
+           <td style="width:70%"></td>
+           <td style="width:70%"></td>
+        </tr>
         
 </table>
 
