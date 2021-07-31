@@ -14,7 +14,7 @@
 
 
  ## My Personal Portfolio :
- <a align="center" href="https://hikarocarvalho.github.io/">https://hikarocarvalho.github.io/imgs/logocanal.png</a>
+ <a align="center" href="https://hikarocarvalhopf.herokuapp.com/">link</a>
  
 <!--
 **HIKARO-290/HIKARO-290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
