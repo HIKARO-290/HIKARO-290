@@ -1,8 +1,23 @@
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 # **Hi👋.I'm Hikaro Carvalho.<h1>**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikarocarvalho&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikarocarvalho&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Here are all technologies I am using or learning 
+<i class="devicon-kotlin-plain"></i>
+<i class="devicon-python-plain"></i>
+<i class="devicon-javascript-plain"></i>
+<i class="devicon-cplusplus-plain"></i>
+<i class="devicon-css3-plain"></i>
+<i class="devicon-php-plain"></i>
+<i class="devicon-mysql-plain"></i>
+<i class="devicon-postgresql-plain"></i>
+<i class="devicon-mongodb-plain"></i>
+<i class="devicon-nodejs-plain"></i>
+<i class="devicon-react-original"></i>
+
+ 
 ## Here are my social links: <h3>
  #####
 <a href="https://github.com/hikarocarvalho"><img width="5%" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></img></a>
