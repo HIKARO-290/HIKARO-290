@@ -4,6 +4,15 @@
 
 ## Here are all technologies I am using or learning 
 
+<html>
+          <head>
+            <title>Test</title>
+          </head>
+          <body>
+             teste
+          </body>
+ </html>
+ 
 <i class="devicon-kotlin-plain"></i>
 <i class="devicon-python-plain"></i>
 <i class="devicon-javascript-plain"></i>
