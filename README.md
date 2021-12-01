@@ -1,5 +1,8 @@
 # **Hi👋.I'm Hikaro Carvalho.<h1>**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikarocarvalho&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=hikarocarvalho&theme=gruvbox&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) 
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikarocarvalho&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Here are all technologies I am using or learning 
@@ -16,7 +19,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hikarocarvalho&theme=gruvbox&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) 
 
  
 ## Here are my social links: <h3>
